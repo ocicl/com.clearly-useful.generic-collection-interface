@@ -1,0 +1,10 @@
+* com.clearly-useful.generic-collection-interface
+
+generic collection interface implementing list, vector, and dictionary-like abstractions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jaeschliman/com.clearly-useful.generic-collection-interface.git   |
+| commit  | 96438f4  |
+| systems | com.clearly-useful.generic-collection-interface |
+|---------+-------------------------------------------|
+
